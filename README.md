@@ -4,7 +4,7 @@ This project is a car dealership management system.
 
 ## Features
 
-    The application allows users to filter vehicles by type and model year, and view the results on a separate page.
+The application allows users to filter vehicles by type and model year, and view the results on a separate page.
 
 ## Installation
 
